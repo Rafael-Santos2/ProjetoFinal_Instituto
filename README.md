@@ -28,10 +28,11 @@ O projeto é desenvolvido seguindo a **metodologia ágil Scrum**, promovendo cic
 
 O time é composto por 5 integrantes, atuando de forma participativa nas áreas de:
 
-* Rafael (Scrum Master, Front-end)
-* 
-* 
-* 
+* Alexandre Henrique (Figma, Canva)
+* Gustavo Malagas Generoso (Figma)
+* Natália Caroline (Figma, Canva) 
+* Nicolly Cruz (Figma, Canva)
+* Rafael (Scrum Master, Documentação)
 
 ##  Funcionalidades Previstas
 
